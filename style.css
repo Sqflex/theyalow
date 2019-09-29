@@ -394,8 +394,9 @@ h4{
       font-size: 15px;
     }
     .videoposter{
-      width: 200px;
-      height: 200px;
+      width: 400px;
+      height: 325px;
+      margin-left: 15%;
     }
     .describtionPoster{
       font-size: 10px;
@@ -409,14 +410,14 @@ h4{
       text-align: left;
     }
     .righthere{
-      width: 25px;
-      height: 25px;
-      margin-top: 100px;
-      margin-left: 0px;
+      width: 12px;
+      height: 12px;
+      margin-top: 90px;
+      margin-left: 975px;
     }
     .buttonleft{
-      width: 25px;
-      height: 25px;
+      width: 12px;
+      height: 12px;
       margin-top:100px;
       margin-left: 0px;
     }
@@ -454,31 +455,32 @@ h4{
       font-size: 10px;
     }
     .videoposter{
-      width: 200px;
-      height: 200px;
+      width: 250px;
+      height: 175px;
+      margin-left: 15%;
     }
     .describtionPoster{
       font-size: 10px;
     }
     .TheCool{
       display: inline;
-      font-size:10px;
+      font-size:20px;
       text-align: left;
     }
     .TheMinimal{
       display: inline;
-      font-size: 10px;
+      font-size: 20px;
       text-align: left;
     }
     .righthere{
-      width: 25px;
-      height: 25px;
-      margin-top: 100px;
-      margin-left: 0px;
+      width: 12px;
+      height: 12px;
+      margin-top: 90px;
+      margin-left: 775px;
     }
     .buttonleft{
-      width: 25px;
-      height: 25px;
+      width: 12px;
+      height: 12px;
       margin-top:100px;
       margin-left: 0px;
     }
@@ -494,8 +496,9 @@ h4{
       font-size: 15px;
     }
     .videoposter{
-      width: 200px;
-      height: 200px;
+      width: 250px;
+      height: 150px;
+      margin-left: 15%;
     }
     .describtionPoster{
       font-size: 10px;
@@ -511,14 +514,14 @@ h4{
       text-align: left;
     }
     .righthere{
-      width: 25px;
-      height: 25px;
-      margin-top: 100px;
-      margin-left: 0px;
+      width: 12px;
+      height: 12px;
+      margin-top: 90px;
+      margin-left: 600px;
     }
     .buttonleft{
-      width: 25px;
-      height: 25px;
+      width: 12px;
+      height: 12px;
       margin-top:100px;
       margin-left: 0px;
     }
@@ -537,11 +540,12 @@ h4{
       font-size: 10px;
     }
     .videoposter{
-      width: 150px;
+      width: 200px;
       height: 150px;
+      margin-left: 11%;
     }
     .describtionPoster{
-      font-size: 10px;
+      font-size: 20px;
     }
     .TheCool{
       display: inline;
@@ -554,14 +558,16 @@ h4{
       text-align: left;
     }
     .righthere{
-      width: 25px;
-      height: 25px;
+      position: absolute;
+      width: 12px;
+      height: 12px;
       margin-top: 100px;
-      margin-left: 0px;
+      margin-left: 575px;
     }
     .buttonleft{
-      width: 25px;
-      height: 25px;
+      position: absolute;
+      width: 12px;
+      height: 12px;
       margin-top:100px;
       margin-left: 0px;
     }
@@ -604,7 +610,8 @@ h4{
     }
     .videoposter{
       width: 200px;
-      height: 200px;
+      height: 150px;
+      margin-left: 15%;
     }
     .describtionPoster{
       font-size: 10px;
@@ -620,14 +627,16 @@ h4{
       text-align: left;
     }
     .righthere{
-      width: 25px;
-      height: 25px;
+      position: absolute;
+      width: 12px;
+      height: 12px;
       margin-top: 100px;
-      margin-left: 0px;
+      margin-left: 425px;
     }
     .buttonleft{
-      width: 25px;
-      height: 25px;
+      position: absolute;
+      width: 12px;
+      height: 12px;
       margin-top:100px;
       margin-left: 0px;
     }
